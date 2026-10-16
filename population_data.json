@@ -1,0 +1,1914 @@
+[
+  {
+    "Location":"India",
+    "Population":1429404000.0,
+    "% of world":"17.3%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official projection[4]",
+    "Notes":"[b]"
+  },
+  {
+    "Location":"China",
+    "Population":1404890000.0,
+    "% of world":"17.0%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[5]",
+    "Notes":"[c]"
+  },
+  {
+    "Location":"United States",
+    "Population":341784857.0,
+    "% of world":"4.1%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"Official estimate[6]",
+    "Notes":"[d]"
+  },
+  {
+    "Location":"Indonesia",
+    "Population":288315089.0,
+    "% of world":"3.5%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"National annual projection[7]",
+    "Notes":null
+  },
+  {
+    "Location":"Pakistan",
+    "Population":241499431.0,
+    "% of world":"2.9%",
+    "Date":"1 Mar 2023",
+    "Source (official or from the United Nations)":"2023 census result[8]",
+    "Notes":"[e]"
+  },
+  {
+    "Location":"Nigeria",
+    "Population":223800000.0,
+    "% of world":"2.7%",
+    "Date":"1 Jul 2023",
+    "Source (official or from the United Nations)":"Official projection[9]",
+    "Notes":null
+  },
+  {
+    "Location":"Brazil",
+    "Population":214211951.0,
+    "% of world":"2.6%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official estimate[10]",
+    "Notes":null
+  },
+  {
+    "Location":"Bangladesh",
+    "Population":169828911.0,
+    "% of world":"2.1%",
+    "Date":"14 Jun 2022",
+    "Source (official or from the United Nations)":"2022 census result[11]",
+    "Notes":"[f]"
+  },
+  {
+    "Location":"Russia",
+    "Population":146028325.0,
+    "% of world":"1.8%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"Official estimate[13]",
+    "Notes":"[g]"
+  },
+  {
+    "Location":"Mexico",
+    "Population":131231919.0,
+    "% of world":"1.6%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[14]",
+    "Notes":null
+  },
+  {
+    "Location":"Japan",
+    "Population":122650000.0,
+    "% of world":"1.5%",
+    "Date":"1 Sep 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[15]",
+    "Notes":null
+  },
+  {
+    "Location":"Democratic Republic of the Congo",
+    "Population":116452162.0,
+    "% of world":"1.4%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"UN projection[16]",
+    "Notes":null
+  },
+  {
+    "Location":"Philippines",
+    "Population":114849400.0,
+    "% of world":"1.4%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official projection[17]",
+    "Notes":null
+  },
+  {
+    "Location":"Ethiopia",
+    "Population":111652998.0,
+    "% of world":"1.3%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"National annual projection[18]",
+    "Notes":null
+  },
+  {
+    "Location":"Egypt",
+    "Population":108613296.0,
+    "% of world":"1.3%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[19]",
+    "Notes":null
+  },
+  {
+    "Location":"Vietnam",
+    "Population":102300000.0,
+    "% of world":"1.2%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[20]",
+    "Notes":null
+  },
+  {
+    "Location":"Iran",
+    "Population":87134000.0,
+    "% of world":"1.1%",
+    "Date":"21 Mar 2026",
+    "Source (official or from the United Nations)":"Official estimate[21]",
+    "Notes":null
+  },
+  {
+    "Location":"Turkey",
+    "Population":86092168.0,
+    "% of world":"1.0%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[22]",
+    "Notes":null
+  },
+  {
+    "Location":"Germany",
+    "Population":83298787.0,
+    "% of world":"1.0%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[23]",
+    "Notes":null
+  },
+  {
+    "Location":"Thailand",
+    "Population":70250751.0,
+    "% of world":"0.8%",
+    "Date":"2025",
+    "Source (official or from the United Nations)":"Preliminary census results[24]",
+    "Notes":null
+  },
+  {
+    "Location":"Tanzania",
+    "Population":70038850.0,
+    "% of world":"0.8%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official projection[25]",
+    "Notes":"[h]"
+  },
+  {
+    "Location":"United Kingdom",
+    "Population":69487000.0,
+    "% of world":"0.8%",
+    "Date":"30 Jun 2025",
+    "Source (official or from the United Nations)":"Official estimate[26]",
+    "Notes":"[i]"
+  },
+  {
+    "Location":"France",
+    "Population":69081996.0,
+    "% of world":"0.8%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Yearly national estimate[27]",
+    "Notes":"[j]"
+  },
+  {
+    "Location":"South Africa",
+    "Population":63522380.0,
+    "% of world":"0.8%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"Official estimate[28]",
+    "Notes":null
+  },
+  {
+    "Location":"Italy",
+    "Population":58943673.0,
+    "% of world":"0.7%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[29]",
+    "Notes":null
+  },
+  {
+    "Location":"Kenya",
+    "Population":54227015.0,
+    "% of world":"0.7%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official projection[30]",
+    "Notes":null
+  },
+  {
+    "Location":"Colombia",
+    "Population":53399171.0,
+    "% of world":"0.6%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official projection[31]",
+    "Notes":null
+  },
+  {
+    "Location":"Sudan",
+    "Population":53282719.0,
+    "% of world":"0.6%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"UN projection[32]",
+    "Notes":null
+  },
+  {
+    "Location":"Myanmar",
+    "Population":51375327.0,
+    "% of world":"0.6%",
+    "Date":"15 Oct 2024",
+    "Source (official or from the United Nations)":"2024 census result[33]",
+    "Notes":"[k]"
+  },
+  {
+    "Location":"South Korea",
+    "Population":51088284.0,
+    "% of world":"0.6%",
+    "Date":"31 Jul 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[35]",
+    "Notes":null
+  },
+  {
+    "Location":"Spain",
+    "Population":49801559.0,
+    "% of world":"0.6%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[36]",
+    "Notes":null
+  },
+  {
+    "Location":"Algeria",
+    "Population":47400000.0,
+    "% of world":"0.6%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"National annual projection[37]",
+    "Notes":null
+  },
+  {
+    "Location":"Argentina",
+    "Population":46466688.0,
+    "% of world":"0.6%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[38]",
+    "Notes":null
+  },
+  {
+    "Location":"Iraq",
+    "Population":46118793.0,
+    "% of world":"0.6%",
+    "Date":"21 Nov 2024",
+    "Source (official or from the United Nations)":"2024 census result[39]",
+    "Notes":null
+  },
+  {
+    "Location":"Uganda",
+    "Population":45905417.0,
+    "% of world":"0.6%",
+    "Date":"10 May 2024",
+    "Source (official or from the United Nations)":"2024 census result[40]",
+    "Notes":null
+  },
+  {
+    "Location":"Afghanistan",
+    "Population":43844000.0,
+    "% of world":"0.5%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"UN projection[41][42] (see note)",
+    "Notes":"[l]"
+  },
+  {
+    "Location":"Canada",
+    "Population":41798407.0,
+    "% of world":"0.5%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[49]",
+    "Notes":null
+  },
+  {
+    "Location":"Uzbekistan",
+    "Population":39047321.0,
+    "% of world":"0.5%",
+    "Date":"15 Jan 2026",
+    "Source (official or from the United Nations)":"2026 census result[50]",
+    "Notes":null
+  },
+  {
+    "Location":"Angola",
+    "Population":38778554.0,
+    "% of world":"0.5%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"National estimate[51]",
+    "Notes":null
+  },
+  {
+    "Location":"Morocco",
+    "Population":37254695.0,
+    "% of world":"0.5%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[52]",
+    "Notes":"[m]"
+  },
+  {
+    "Location":"Poland",
+    "Population":37232000.0,
+    "% of world":"0.4%",
+    "Date":"31 Jul 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[53]",
+    "Notes":null
+  },
+  {
+    "Location":"Saudi Arabia",
+    "Population":35300280.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"Official estimate[54]",
+    "Notes":null
+  },
+  {
+    "Location":"Mozambique",
+    "Population":34958973.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[55]",
+    "Notes":null
+  },
+  {
+    "Location":"Malaysia",
+    "Population":34389400.0,
+    "% of world":"0.4%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[56]",
+    "Notes":null
+  },
+  {
+    "Location":"Ghana",
+    "Population":34378768.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[57]",
+    "Notes":null
+  },
+  {
+    "Location":"Peru",
+    "Population":34157732.0,
+    "% of world":"0.4%",
+    "Date":"4 Aug 2025",
+    "Source (official or from the United Nations)":"Census 2025[58]",
+    "Notes":null
+  },
+  {
+    "Location":"Ivory Coast",
+    "Population":33293101.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[59]",
+    "Notes":null
+  },
+  {
+    "Location":"Yemen",
+    "Population":32684503.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2023",
+    "Source (official or from the United Nations)":"Official estimate[60]",
+    "Notes":null
+  },
+  {
+    "Location":"Madagascar",
+    "Population":32658977.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[61]",
+    "Notes":null
+  },
+  {
+    "Location":"Nepal",
+    "Population":30034040.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[62]",
+    "Notes":null
+  },
+  {
+    "Location":"Cameroon",
+    "Population":29442327.0,
+    "% of world":"0.4%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"National annual projection[63]",
+    "Notes":null
+  },
+  {
+    "Location":"Ukraine",
+    "Population":28700000.0,
+    "% of world":"0.3%",
+    "Date":"1 Sep 2025",
+    "Source (official or from the United Nations)":"State migration service[64]",
+    "Notes":"[n]"
+  },
+  {
+    "Location":"Venezuela",
+    "Population":28633711.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"UN projection[65]",
+    "Notes":null
+  },
+  {
+    "Location":"Australia",
+    "Population":27921150.0,
+    "% of world":"0.3%",
+    "Date":"31 Mar 2026",
+    "Source (official or from the United Nations)":"Official projection[66]",
+    "Notes":"[o]"
+  },
+  {
+    "Location":"Niger",
+    "Population":27522750.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"National annual projection[67]",
+    "Notes":null
+  },
+  {
+    "Location":"Syria",
+    "Population":26472497.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Monthly estimate[68]",
+    "Notes":null
+  },
+  {
+    "Location":"North Korea",
+    "Population":25950000.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"National annual projection[69]",
+    "Notes":null
+  },
+  {
+    "Location":"Burkina Faso",
+    "Population":24736828.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official projection[70]",
+    "Notes":null
+  },
+  {
+    "Location":"Mali",
+    "Population":23929000.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"Official projection[71]",
+    "Notes":null
+  },
+  {
+    "Location":"Taiwan",
+    "Population":23224721.0,
+    "% of world":"0.3%",
+    "Date":"31 Aug 2026",
+    "Source (official or from the United Nations)":"Official estimate[72]",
+    "Notes":"[p]"
+  },
+  {
+    "Location":"Zambia",
+    "Population":23003214.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official estimate[73]",
+    "Notes":null
+  },
+  {
+    "Location":"Sri Lanka",
+    "Population":21778000.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official estimate[74]",
+    "Notes":null
+  },
+  {
+    "Location":"Malawi",
+    "Population":21201635.0,
+    "% of world":"0.3%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[75]",
+    "Notes":null
+  },
+  {
+    "Location":"Kazakhstan",
+    "Population":20618796.0,
+    "% of world":"0.2%",
+    "Date":"1 Sep 2026",
+    "Source (official or from the United Nations)":"Official estimate[76]",
+    "Notes":null
+  },
+  {
+    "Location":"Somalia",
+    "Population":20305907.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"UN projection[32]",
+    "Notes":"[q]"
+  },
+  {
+    "Location":"Chile",
+    "Population":20150948.0,
+    "% of world":"0.2%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National annual projection[77]",
+    "Notes":null
+  },
+  {
+    "Location":"Chad",
+    "Population":20031602.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[78]",
+    "Notes":null
+  },
+  {
+    "Location":"Senegal",
+    "Population":19575061.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[79]",
+    "Notes":null
+  },
+  {
+    "Location":"Romania",
+    "Population":19041322.0,
+    "% of world":"0.2%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[80]",
+    "Notes":null
+  },
+  {
+    "Location":"Guatemala",
+    "Population":18312373.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[81]",
+    "Notes":null
+  },
+  {
+    "Location":"Ecuador",
+    "Population":18243816.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[82]",
+    "Notes":null
+  },
+  {
+    "Location":"Netherlands",
+    "Population":18171612.0,
+    "% of world":"0.2%",
+    "Date":"31 Aug 2026",
+    "Source (official or from the United Nations)":"Official estimate[83]",
+    "Notes":"[r]"
+  },
+  {
+    "Location":"Cambodia",
+    "Population":17816143.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official projection[84]",
+    "Notes":null
+  },
+  {
+    "Location":"Guinea",
+    "Population":17521167.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"Census July 2025[85]",
+    "Notes":null
+  },
+  {
+    "Location":"Zimbabwe",
+    "Population":16175966.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official projection[86]",
+    "Notes":null
+  },
+  {
+    "Location":"South Sudan",
+    "Population":15786898.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"National annual projection[87]",
+    "Notes":null
+  },
+  {
+    "Location":"Rwanda",
+    "Population":14418145.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[88]",
+    "Notes":null
+  },
+  {
+    "Location":"Benin",
+    "Population":13551992.0,
+    "% of world":"0.2%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[89]",
+    "Notes":null
+  },
+  {
+    "Location":"Burundi",
+    "Population":12332788.0,
+    "% of world":"0.1%",
+    "Date":"16 Aug 2024",
+    "Source (official or from the United Nations)":"Preliminary census result[90]",
+    "Notes":null
+  },
+  {
+    "Location":"Tunisia",
+    "Population":11992843.0,
+    "% of world":"0.1%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"National estimate[91]",
+    "Notes":null
+  },
+  {
+    "Location":"Belgium",
+    "Population":11942772.0,
+    "% of world":"0.1%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official estimate[92]",
+    "Notes":null
+  },
+  {
+    "Location":"Jordan",
+    "Population":11937000.0,
+    "% of world":"0.1%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"National estimate[93]",
+    "Notes":null
+  },
+  {
+    "Location":"Haiti",
+    "Population":11867032.0,
+    "% of world":"0.1%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"National annual projection[94]",
+    "Notes":null
+  },
+  {
+    "Location":"Portugal",
+    "Population":11424031.0,
+    "% of world":"0.1%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[95]",
+    "Notes":null
+  },
+  {
+    "Location":"Bolivia",
+    "Population":11365333.0,
+    "% of world":"0.1%",
+    "Date":"23 Mar 2024",
+    "Source (official or from the United Nations)":"2024 census result[96]",
+    "Notes":null
+  },
+  {
+    "Location":"United Arab Emirates",
+    "Population":11294243.0,
+    "% of world":"0.1%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"Official estimate[97]",
+    "Notes":null
+  },
+  {
+    "Location":"Czech Republic",
+    "Population":10903655.0,
+    "% of world":"0.1%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"Official estimate[98]",
+    "Notes":null
+  },
+  {
+    "Location":"Dominican Republic",
+    "Population":10771504.0,
+    "% of world":"0.1%",
+    "Date":"10 Nov 2022",
+    "Source (official or from the United Nations)":"2022 census result[99]",
+    "Notes":null
+  },
+  {
+    "Location":"Tajikistan",
+    "Population":10721000.0,
+    "% of world":"0.1%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[100]",
+    "Notes":null
+  },
+  {
+    "Location":"Sweden",
+    "Population":10621103.0,
+    "% of world":"0.1%",
+    "Date":"31 Aug 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[101]",
+    "Notes":null
+  },
+  {
+    "Location":"Greece",
+    "Population":10372335.0,
+    "% of world":"0.1%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"Official estimate[102]",
+    "Notes":null
+  },
+  {
+    "Location":"Israel",
+    "Population":10305000.0,
+    "% of world":"0.1%",
+    "Date":"31 Aug 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[103]",
+    "Notes":"[s]"
+  },
+  {
+    "Location":"Azerbaijan",
+    "Population":10273450.0,
+    "% of world":"0.1%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[104]",
+    "Notes":null
+  },
+  {
+    "Location":"Honduras",
+    "Population":10186738.0,
+    "% of world":"0.1%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[105]",
+    "Notes":null
+  },
+  {
+    "Location":"Papua New Guinea",
+    "Population":10185363.0,
+    "% of world":"0.1%",
+    "Date":"16 Jun 2024",
+    "Source (official or from the United Nations)":"2024 census result[106]",
+    "Notes":null
+  },
+  {
+    "Location":"Hungary",
+    "Population":9488428.0,
+    "% of world":"0.1%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[107]",
+    "Notes":null
+  },
+  {
+    "Location":"Cuba",
+    "Population":9434593.0,
+    "% of world":"0.1%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[108]",
+    "Notes":null
+  },
+  {
+    "Location":"Sierra Leone",
+    "Population":9270700.0,
+    "% of world":"0.1%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[109]",
+    "Notes":null
+  },
+  {
+    "Location":"Austria",
+    "Population":9217573.0,
+    "% of world":"0.1%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[110]",
+    "Notes":null
+  },
+  {
+    "Location":"Switzerland",
+    "Population":9154896.0,
+    "% of world":"0.1%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[111]",
+    "Notes":null
+  },
+  {
+    "Location":"Belarus",
+    "Population":9056080.0,
+    "% of world":"0.1%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[112]",
+    "Notes":null
+  },
+  {
+    "Location":"Togo",
+    "Population":8095498.0,
+    "% of world":"0.10%",
+    "Date":"8 Nov 2022",
+    "Source (official or from the United Nations)":"2022 census result[113]",
+    "Notes":null
+  },
+  {
+    "Location":"Laos",
+    "Population":7745000.0,
+    "% of world":"0.09%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"National annual projection[114]",
+    "Notes":null
+  },
+  {
+    "Location":"Libya",
+    "Population":7539852.0,
+    "% of world":"0.09%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"UN projection[115]",
+    "Notes":null
+  },
+  {
+    "Location":"Hong Kong (China)",
+    "Population":7518300.0,
+    "% of world":"0.09%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National estimate[116]",
+    "Notes":null
+  },
+  {
+    "Location":"Kyrgyzstan",
+    "Population":7404300.0,
+    "% of world":"0.09%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[117]",
+    "Notes":null
+  },
+  {
+    "Location":"Turkmenistan",
+    "Population":7057841.0,
+    "% of world":"0.09%",
+    "Date":"17 Dec 2022",
+    "Source (official or from the United Nations)":"2022 census result[118]",
+    "Notes":null
+  },
+  {
+    "Location":"Nicaragua",
+    "Population":6874748.0,
+    "% of world":"0.08%",
+    "Date":"30 Jun 2024",
+    "Source (official or from the United Nations)":"Official estimate[119]",
+    "Notes":null
+  },
+  {
+    "Location":"Serbia",
+    "Population":6532019.0,
+    "% of world":"0.08%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[120]",
+    "Notes":"[t]"
+  },
+  {
+    "Location":"Central African Republic",
+    "Population":6470307.0,
+    "% of world":"0.08%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"National annual projection[121]",
+    "Notes":null
+  },
+  {
+    "Location":"Bulgaria",
+    "Population":6423207.0,
+    "% of world":"0.08%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[122]",
+    "Notes":null
+  },
+  {
+    "Location":"Singapore",
+    "Population":6208500.0,
+    "% of world":"0.08%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National annual projection[123]",
+    "Notes":null
+  },
+  {
+    "Location":"Republic of the Congo",
+    "Population":6142180.0,
+    "% of world":"0.07%",
+    "Date":"17 May 2023",
+    "Source (official or from the United Nations)":"2023 census result[124]",
+    "Notes":null
+  },
+  {
+    "Location":"Paraguay",
+    "Population":6109644.0,
+    "% of world":"0.07%",
+    "Date":"9 Nov 2022",
+    "Source (official or from the United Nations)":"2022 census result[125]",
+    "Notes":null
+  },
+  {
+    "Location":"Denmark",
+    "Population":6038638.0,
+    "% of world":"0.07%",
+    "Date":"1 Sep 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[126]",
+    "Notes":"[u]"
+  },
+  {
+    "Location":"El Salvador",
+    "Population":6029976.0,
+    "% of world":"0.07%",
+    "Date":"2 May 2024",
+    "Source (official or from the United Nations)":"2024 census result[127]",
+    "Notes":null
+  },
+  {
+    "Location":"Lebanon",
+    "Population":5895466.0,
+    "% of world":"0.07%",
+    "Date":"2026",
+    "Source (official or from the United Nations)":"Official estimate[128]",
+    "Notes":null
+  },
+  {
+    "Location":"Finland",
+    "Population":5659324.0,
+    "% of world":"0.07%",
+    "Date":"31 Aug 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[129]",
+    "Notes":"[v]"
+  },
+  {
+    "Location":"Norway",
+    "Population":5636904.0,
+    "% of world":"0.07%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[130]",
+    "Notes":"[w]"
+  },
+  {
+    "Location":"Palestine",
+    "Population":5557096.0,
+    "% of world":"0.07%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"National annual projection[131]",
+    "Notes":"[x]"
+  },
+  {
+    "Location":"Ireland",
+    "Population":5525600.0,
+    "% of world":"0.07%",
+    "Date":"1 Apr 2026",
+    "Source (official or from the United Nations)":"National estimate[132]",
+    "Notes":null
+  },
+  {
+    "Location":"Slovakia",
+    "Population":5403009.0,
+    "% of world":"0.07%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[133]",
+    "Notes":null
+  },
+  {
+    "Location":"Oman",
+    "Population":5398645.0,
+    "% of world":"0.07%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[134]",
+    "Notes":null
+  },
+  {
+    "Location":"New Zealand",
+    "Population":5357300.0,
+    "% of world":"0.06%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[135]",
+    "Notes":"[y]"
+  },
+  {
+    "Location":"Liberia",
+    "Population":5248621.0,
+    "% of world":"0.06%",
+    "Date":"10 Nov 2022",
+    "Source (official or from the United Nations)":"2022 census result[136]",
+    "Notes":null
+  },
+  {
+    "Location":"Costa Rica",
+    "Population":5217296.0,
+    "% of world":"0.06%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National annual projection[137]",
+    "Notes":null
+  },
+  {
+    "Location":"Mauritania",
+    "Population":4927532.0,
+    "% of world":"0.06%",
+    "Date":"25 Dec 2023",
+    "Source (official or from the United Nations)":"2023 census result[138]",
+    "Notes":null
+  },
+  {
+    "Location":"Kuwait",
+    "Population":4881254.0,
+    "% of world":"0.06%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"Official estimate[139]",
+    "Notes":null
+  },
+  {
+    "Location":"Panama",
+    "Population":4064780.0,
+    "% of world":"0.05%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"2023 census result[140]",
+    "Notes":null
+  },
+  {
+    "Location":"Georgia",
+    "Population":3941100.0,
+    "% of world":"0.05%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[141]",
+    "Notes":"[z]"
+  },
+  {
+    "Location":"Croatia",
+    "Population":3874993.0,
+    "% of world":"0.05%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"Official estimate[142]",
+    "Notes":null
+  },
+  {
+    "Location":"Eritrea",
+    "Population":3682669.0,
+    "% of world":"0.04%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"UN projection[115] (see note)",
+    "Notes":"[aa]"
+  },
+  {
+    "Location":"Mongolia",
+    "Population":3591120.0,
+    "% of world":"0.04%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"National annual projection[148]",
+    "Notes":null
+  },
+  {
+    "Location":"Uruguay",
+    "Population":3480601.0,
+    "% of world":"0.04%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National annual projection[149]",
+    "Notes":null
+  },
+  {
+    "Location":"Bosnia and Herzegovina",
+    "Population":3412000.0,
+    "% of world":"0.04%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"Official estimate[150]",
+    "Notes":null
+  },
+  {
+    "Location":"Qatar",
+    "Population":3370611.0,
+    "% of world":"0.04%",
+    "Date":"31 Mar 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[151]",
+    "Notes":null
+  },
+  {
+    "Location":"Puerto Rico (US)",
+    "Population":3184835.0,
+    "% of world":"0.04%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"Annual projection[152]",
+    "Notes":null
+  },
+  {
+    "Location":"Armenia",
+    "Population":3103900.0,
+    "% of world":"0.04%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[153]",
+    "Notes":null
+  },
+  {
+    "Location":"Namibia",
+    "Population":3022401.0,
+    "% of world":"0.04%",
+    "Date":"24 Sep 2023",
+    "Source (official or from the United Nations)":"2023 Census[154]",
+    "Notes":null
+  },
+  {
+    "Location":"Lithuania",
+    "Population":2887761.0,
+    "% of world":"0.03%",
+    "Date":"1 Sep 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[155]",
+    "Notes":null
+  },
+  {
+    "Location":"Jamaica",
+    "Population":2774538.0,
+    "% of world":"0.03%",
+    "Date":"12 Sep 2022",
+    "Source (official or from the United Nations)":"2022 census result[156]",
+    "Notes":null
+  },
+  {
+    "Location":"Botswana",
+    "Population":2515633.0,
+    "% of world":"0.03%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official estimate[157]",
+    "Notes":null
+  },
+  {
+    "Location":"Gabon",
+    "Population":2469296.0,
+    "% of world":"0.03%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"National annual projection[158]",
+    "Notes":null
+  },
+  {
+    "Location":"Gambia",
+    "Population":2422712.0,
+    "% of world":"0.03%",
+    "Date":"1 May 2024",
+    "Source (official or from the United Nations)":"Preliminary census results[159]",
+    "Notes":null
+  },
+  {
+    "Location":"Moldova",
+    "Population":2365600.0,
+    "% of world":"0.03%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[160]",
+    "Notes":"[ab]"
+  },
+  {
+    "Location":"Albania",
+    "Population":2335930.0,
+    "% of world":"0.03%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[161]",
+    "Notes":null
+  },
+  {
+    "Location":"Slovenia",
+    "Population":2136385.0,
+    "% of world":"0.03%",
+    "Date":"1 Apr 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[162]",
+    "Notes":null
+  },
+  {
+    "Location":"Lesotho",
+    "Population":2116427.0,
+    "% of world":"0.03%",
+    "Date":"2024",
+    "Source (official or from the United Nations)":"Official survey[163]",
+    "Notes":null
+  },
+  {
+    "Location":"Guinea-Bissau",
+    "Population":1890252.0,
+    "% of world":"0.02%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[164][dubious – discuss]",
+    "Notes":null
+  },
+  {
+    "Location":"Latvia",
+    "Population":1832100.0,
+    "% of world":"0.02%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[165]",
+    "Notes":null
+  },
+  {
+    "Location":"North Macedonia",
+    "Population":1819074.0,
+    "% of world":"0.02%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[166]",
+    "Notes":null
+  },
+  {
+    "Location":"Equatorial Guinea",
+    "Population":1668768.0,
+    "% of world":"0.02%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"Official estimate[167]",
+    "Notes":null
+  },
+  {
+    "Location":"Bahrain",
+    "Population":1603260.0,
+    "% of world":"0.02%",
+    "Date":"30 Jun 2025",
+    "Source (official or from the United Nations)":"Official estimate[168]",
+    "Notes":null
+  },
+  {
+    "Location":"Kosovo",
+    "Population":1582322.0,
+    "% of world":"0.02%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"2024 national census[169]",
+    "Notes":null
+  },
+  {
+    "Location":"Timor-Leste",
+    "Population":1409452.0,
+    "% of world":"0.02%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National annual projection[170]",
+    "Notes":null
+  },
+  {
+    "Location":"Trinidad and Tobago",
+    "Population":1367764.0,
+    "% of world":"0.02%",
+    "Date":"30 Jun 2025",
+    "Source (official or from the United Nations)":"Official estimate[171]",
+    "Notes":null
+  },
+  {
+    "Location":"Estonia",
+    "Population":1360745.0,
+    "% of world":"0.02%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[172]",
+    "Notes":null
+  },
+  {
+    "Location":"Mauritius",
+    "Population":1240316.0,
+    "% of world":"0.01%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National estimate[173]",
+    "Notes":null
+  },
+  {
+    "Location":"Eswatini",
+    "Population":1235549.0,
+    "% of world":"0.01%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"Official projection[174]",
+    "Notes":null
+  },
+  {
+    "Location":"Djibouti",
+    "Population":1066809.0,
+    "% of world":"0.01%",
+    "Date":"20 May 2024",
+    "Source (official or from the United Nations)":"2024 census result[175]",
+    "Notes":null
+  },
+  {
+    "Location":"Cyprus",
+    "Population":983000.0,
+    "% of world":"0.01%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"Official estimate[176]",
+    "Notes":"[ac]"
+  },
+  {
+    "Location":"Guyana",
+    "Population":956044.0,
+    "% of world":"0.01%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"Official estimate[177]",
+    "Notes":null
+  },
+  {
+    "Location":"Comoros",
+    "Population":944388.0,
+    "% of world":"0.01%",
+    "Date":"2026",
+    "Source (official or from the United Nations)":"Official estimate[178]",
+    "Notes":null
+  },
+  {
+    "Location":"Fiji",
+    "Population":902623.0,
+    "% of world":"0.01%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"National annual projection[179]",
+    "Notes":null
+  },
+  {
+    "Location":"Bhutan",
+    "Population":790718.0,
+    "% of world":"0.010%",
+    "Date":"2026",
+    "Source (official or from the United Nations)":"National annual projection[180]",
+    "Notes":null
+  },
+  {
+    "Location":"Solomon Islands",
+    "Population":750325.0,
+    "% of world":"0.009%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"National annual projection[181]",
+    "Notes":null
+  },
+  {
+    "Location":"Luxembourg",
+    "Population":690959.0,
+    "% of world":"0.008%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[182]",
+    "Notes":null
+  },
+  {
+    "Location":"Macau (China)",
+    "Population":686500.0,
+    "% of world":"0.008%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[183]",
+    "Notes":null
+  },
+  {
+    "Location":"Montenegro",
+    "Population":622902.0,
+    "% of world":"0.008%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[184]",
+    "Notes":null
+  },
+  {
+    "Location":"Suriname",
+    "Population":616500.0,
+    "% of world":"0.007%",
+    "Date":"1 Jul 2021",
+    "Source (official or from the United Nations)":"Official estimate[185]",
+    "Notes":null
+  },
+  {
+    "Location":"Western Sahara (disputed)",
+    "Population":610813.0,
+    "% of world":"0.007%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"UN projection[115]",
+    "Notes":null
+  },
+  {
+    "Location":"Malta",
+    "Population":588254.0,
+    "% of world":"0.007%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[186]",
+    "Notes":null
+  },
+  {
+    "Location":"Maldives",
+    "Population":515132.0,
+    "% of world":"0.006%",
+    "Date":"13 Sep 2022",
+    "Source (official or from the United Nations)":"2022 census result[187]",
+    "Notes":null
+  },
+  {
+    "Location":"Cape Verde",
+    "Population":491233.0,
+    "% of world":"0.006%",
+    "Date":"16 Jun 2021",
+    "Source (official or from the United Nations)":"2021 census result[188]",
+    "Notes":null
+  },
+  {
+    "Location":"Northern Cyprus",
+    "Population":476214.0,
+    "% of world":"0.006%",
+    "Date":"31 Dec 2023",
+    "Source (official or from the United Nations)":"Official projection[189]",
+    "Notes":"[ad]"
+  },
+  {
+    "Location":"Brunei",
+    "Population":458600.0,
+    "% of world":"0.006%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"Official estimate[190]",
+    "Notes":null
+  },
+  {
+    "Location":"Belize",
+    "Population":418982.0,
+    "% of world":"0.005%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"Official estimate[191]",
+    "Notes":null
+  },
+  {
+    "Location":"Bahamas",
+    "Population":398165.0,
+    "% of world":"0.005%",
+    "Date":"4 Apr 2022",
+    "Source (official or from the United Nations)":"2022 census result[192]",
+    "Notes":null
+  },
+  {
+    "Location":"Iceland",
+    "Population":396500.0,
+    "% of world":"0.005%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[193]",
+    "Notes":null
+  },
+  {
+    "Location":"Transnistria",
+    "Population":367776.0,
+    "% of world":"0.004%",
+    "Date":"31 Mar 2024",
+    "Source (official or from the United Nations)":"Official estimate[194]",
+    "Notes":"[ae]"
+  },
+  {
+    "Location":"Vanuatu",
+    "Population":321409.0,
+    "% of world":"0.004%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"National annual projection[195]",
+    "Notes":null
+  },
+  {
+    "Location":"French Polynesia (France)",
+    "Population":279500.0,
+    "% of world":"0.003%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"National annual projection[196]",
+    "Notes":null
+  },
+  {
+    "Location":"New Caledonia (France)",
+    "Population":264596.0,
+    "% of world":"0.003%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"National annual projection[197]",
+    "Notes":null
+  },
+  {
+    "Location":"Barbados",
+    "Population":261692.0,
+    "% of world":"0.003%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[198]",
+    "Notes":null
+  },
+  {
+    "Location":"Abkhazia",
+    "Population":244236.0,
+    "% of world":"0.003%",
+    "Date":"1 Jan 2022",
+    "Source (official or from the United Nations)":"Official estimate[199]",
+    "Notes":"[af]"
+  },
+  {
+    "Location":"São Tomé and Príncipe",
+    "Population":209607.0,
+    "% of world":"0.003%",
+    "Date":"2024",
+    "Source (official or from the United Nations)":"Preliminary census result[200]",
+    "Notes":null
+  },
+  {
+    "Location":"Samoa",
+    "Population":205557.0,
+    "% of world":"0.002%",
+    "Date":"6 Nov 2021",
+    "Source (official or from the United Nations)":"2021 Census[201]",
+    "Notes":null
+  },
+  {
+    "Location":"Saint Lucia",
+    "Population":184100.0,
+    "% of world":"0.002%",
+    "Date":"1 Jul 2023",
+    "Source (official or from the United Nations)":"Official estimate[202]",
+    "Notes":null
+  },
+  {
+    "Location":"Curaçao (Netherlands)",
+    "Population":158006.0,
+    "% of world":"0.002%",
+    "Date":"1 Jan 2026",
+    "Source (official or from the United Nations)":"Official estimate[203]",
+    "Notes":null
+  },
+  {
+    "Location":"Guam (US)",
+    "Population":153836.0,
+    "% of world":"0.002%",
+    "Date":"1 Apr 2020",
+    "Source (official or from the United Nations)":"2020 census result[204]",
+    "Notes":null
+  },
+  {
+    "Location":"Seychelles",
+    "Population":123565.0,
+    "% of world":"0.001%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"Official estimate[205]",
+    "Notes":null
+  },
+  {
+    "Location":"Kiribati",
+    "Population":120740.0,
+    "% of world":"0.001%",
+    "Date":"1 Jul 2021",
+    "Source (official or from the United Nations)":"National annual projection[195]",
+    "Notes":null
+  },
+  {
+    "Location":"Aruba (Netherlands)",
+    "Population":110625.0,
+    "% of world":"0.001%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Official estimate[206]",
+    "Notes":null
+  },
+  {
+    "Location":"Saint Vincent and the Grenadines",
+    "Population":109296.0,
+    "% of world":"0.001%",
+    "Date":"15 Jun 2023",
+    "Source (official or from the United Nations)":"2023 census result[207]",
+    "Notes":null
+  },
+  {
+    "Location":"Grenada",
+    "Population":109021.0,
+    "% of world":"0.001%",
+    "Date":"2021",
+    "Source (official or from the United Nations)":"Preliminary Census results[208]",
+    "Notes":null
+  },
+  {
+    "Location":"Jersey (UK)",
+    "Population":104540.0,
+    "% of world":"0.001%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"2021 census result[209]",
+    "Notes":null
+  },
+  {
+    "Location":"Antigua and Barbuda",
+    "Population":103603.0,
+    "% of world":"0.001%",
+    "Date":"1 Jan 2024",
+    "Source (official or from the United Nations)":"Official estimate[210]",
+    "Notes":null
+  },
+  {
+    "Location":"Tonga",
+    "Population":100179.0,
+    "% of world":"0.001%",
+    "Date":"30 Nov 2021",
+    "Source (official or from the United Nations)":"2021 census result[211]",
+    "Notes":null
+  },
+  {
+    "Location":"Andorra",
+    "Population":90105.0,
+    "% of world":"0.001%",
+    "Date":"31 Aug 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[212]",
+    "Notes":null
+  },
+  {
+    "Location":"Cayman Islands (UK)",
+    "Population":88833.0,
+    "% of world":"0.001%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"National annual projection[213]",
+    "Notes":null
+  },
+  {
+    "Location":"U.S. Virgin Islands (US)",
+    "Population":87146.0,
+    "% of world":"0.001%",
+    "Date":"1 Apr 2020",
+    "Source (official or from the United Nations)":"2020 census result[214]",
+    "Notes":null
+  },
+  {
+    "Location":"Isle of Man (UK)",
+    "Population":84975.0,
+    "% of world":"0.001%",
+    "Date":"1 Apr 2025",
+    "Source (official or from the United Nations)":"Official estimate[215]",
+    "Notes":null
+  },
+  {
+    "Location":"Micronesia",
+    "Population":75817.0,
+    "% of world":"0.0009%",
+    "Date":"12 Feb 2023",
+    "Source (official or from the United Nations)":"2023 Census[216]",
+    "Notes":null
+  },
+  {
+    "Location":"Dominica",
+    "Population":65514.0,
+    "% of world":"0.0008%",
+    "Date":"2026",
+    "Source (official or from the United Nations)":"Official estimate[217]",
+    "Notes":null
+  },
+  {
+    "Location":"Guernsey (UK)",
+    "Population":64781.0,
+    "% of world":"0.0008%",
+    "Date":"31 Dec 2023",
+    "Source (official or from the United Nations)":"National quarterly estimate[218]",
+    "Notes":null
+  },
+  {
+    "Location":"Bermuda (UK)",
+    "Population":64055.0,
+    "% of world":"0.0008%",
+    "Date":"1 Jul 2021",
+    "Source (official or from the United Nations)":"National annual projection[219]",
+    "Notes":null
+  },
+  {
+    "Location":"Greenland (Denmark)",
+    "Population":56945.0,
+    "% of world":"0.0007%",
+    "Date":"1 Jul 2026",
+    "Source (official or from the United Nations)":"National quarterly estimate[220]",
+    "Notes":null
+  },
+  {
+    "Location":"South Ossetia",
+    "Population":56520.0,
+    "% of world":"0.0007%",
+    "Date":"31 Dec 2021",
+    "Source (official or from the United Nations)":"Official estimate[221]",
+    "Notes":"[ag]"
+  },
+  {
+    "Location":"Faroe Islands (Denmark)",
+    "Population":55726.0,
+    "% of world":"0.0007%",
+    "Date":"1 Aug 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[222]",
+    "Notes":null
+  },
+  {
+    "Location":"Turks and Caicos Islands (UK)",
+    "Population":52299.0,
+    "% of world":"0.0006%",
+    "Date":"1 Jul 2025",
+    "Source (official or from the United Nations)":"Official estimate[223]",
+    "Notes":null
+  },
+  {
+    "Location":"Saint Kitts and Nevis",
+    "Population":51320.0,
+    "% of world":"0.0006%",
+    "Date":"2022",
+    "Source (official or from the United Nations)":"2022 census result[224]",
+    "Notes":null
+  },
+  {
+    "Location":"American Samoa (US)",
+    "Population":49710.0,
+    "% of world":"0.0006%",
+    "Date":"1 Apr 2020",
+    "Source (official or from the United Nations)":"2020 census result[225]",
+    "Notes":null
+  },
+  {
+    "Location":"Northern Mariana Islands (US)",
+    "Population":47329.0,
+    "% of world":"0.0006%",
+    "Date":"1 Apr 2020",
+    "Source (official or from the United Nations)":"2020 census result[226]",
+    "Notes":null
+  },
+  {
+    "Location":"Marshall Islands",
+    "Population":42418.0,
+    "% of world":"0.0005%",
+    "Date":"30 Sep 2021",
+    "Source (official or from the United Nations)":"2021 Census[227]",
+    "Notes":null
+  },
+  {
+    "Location":"Sint Maarten (Netherlands)",
+    "Population":41349.0,
+    "% of world":"0.0005%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"Official estimate[228]",
+    "Notes":null
+  },
+  {
+    "Location":"Liechtenstein",
+    "Population":41237.0,
+    "% of world":"0.0005%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"National estimate[229]",
+    "Notes":null
+  },
+  {
+    "Location":"British Virgin Islands (UK)",
+    "Population":39471.0,
+    "% of world":"0.0005%",
+    "Date":"1 Jul 2024",
+    "Source (official or from the United Nations)":"UN projection[3]",
+    "Notes":null
+  },
+  {
+    "Location":"Monaco",
+    "Population":38857.0,
+    "% of world":"0.0005%",
+    "Date":"31 Dec 2025",
+    "Source (official or from the United Nations)":"Census[230]",
+    "Notes":null
+  },
+  {
+    "Location":"Gibraltar (UK)",
+    "Population":38196.0,
+    "% of world":"0.0005%",
+    "Date":"14 Nov 2022",
+    "Source (official or from the United Nations)":"Preliminary census results[231]",
+    "Notes":null
+  },
+  {
+    "Location":"San Marino",
+    "Population":34167.0,
+    "% of world":"0.0004%",
+    "Date":"30 Jun 2026",
+    "Source (official or from the United Nations)":"Monthly national estimate[232]",
+    "Notes":null
+  },
+  {
+    "Location":"Saint Martin (France)",
+    "Population":31496.0,
+    "% of world":"0.0004%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"Official estimate[233]",
+    "Notes":null
+  },
+  {
+    "Location":"Palau",
+    "Population":16733.0,
+    "% of world":"0.0002%",
+    "Date":"1 Jul 2021",
+    "Source (official or from the United Nations)":"2021 Census[234]",
+    "Notes":null
+  },
+  {
+    "Location":"Anguilla (UK)",
+    "Population":16010.0,
+    "% of world":"0.0002%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"Official estimate[235]",
+    "Notes":null
+  },
+  {
+    "Location":"Cook Islands (New Zealand)",
+    "Population":15040.0,
+    "% of world":"0.0002%",
+    "Date":"1 Jul 2021",
+    "Source (official or from the United Nations)":"2021 Census[236]",
+    "Notes":null
+  },
+  {
+    "Location":"Nauru",
+    "Population":11680.0,
+    "% of world":"0.0001%",
+    "Date":"30 Oct 2021",
+    "Source (official or from the United Nations)":"2021 Census[237]",
+    "Notes":null
+  },
+  {
+    "Location":"Wallis and Futuna (France)",
+    "Population":11620.0,
+    "% of world":"0.0001%",
+    "Date":"24 Jul 2023",
+    "Source (official or from the United Nations)":"2023 Census[238]",
+    "Notes":null
+  },
+  {
+    "Location":"Tuvalu",
+    "Population":10643.0,
+    "% of world":"0.0001%",
+    "Date":"12 Dec 2022",
+    "Source (official or from the United Nations)":"2022 Census[239]",
+    "Notes":null
+  },
+  {
+    "Location":"Saint Barthélemy (France)",
+    "Population":10562.0,
+    "% of world":"0.0001%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"Official estimate[233]",
+    "Notes":null
+  },
+  {
+    "Location":"Saint Pierre and Miquelon (France)",
+    "Population":5819.0,
+    "% of world":"0%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"Official estimate[233]",
+    "Notes":null
+  },
+  {
+    "Location":"Saint Helena, Ascension and Tristan da Cunha (UK)",
+    "Population":5651.0,
+    "% of world":"0%",
+    "Date":"1 Jul 2021",
+    "Source (official or from the United Nations)":"2021 Census[240][241][242]",
+    "Notes":null
+  },
+  {
+    "Location":"Montserrat (UK)",
+    "Population":4386.0,
+    "% of world":"0%",
+    "Date":"23 Sep 2023",
+    "Source (official or from the United Nations)":"2023 census result[243]",
+    "Notes":null
+  },
+  {
+    "Location":"Falkland Islands (UK)",
+    "Population":3662.0,
+    "% of world":"0%",
+    "Date":"10 Oct 2021",
+    "Source (official or from the United Nations)":"2021 census result[244]",
+    "Notes":null
+  },
+  {
+    "Location":"Tokelau (New Zealand)",
+    "Population":2608.0,
+    "% of world":"0%",
+    "Date":"1 Jan 2025",
+    "Source (official or from the United Nations)":"2025 Census[245]",
+    "Notes":null
+  },
+  {
+    "Location":"Norfolk Island (Australia)",
+    "Population":2188.0,
+    "% of world":"0%",
+    "Date":"1 Jan 2021",
+    "Source (official or from the United Nations)":"2021 Census[246]",
+    "Notes":null
+  },
+  {
+    "Location":"Christmas Island (Australia)",
+    "Population":1692.0,
+    "% of world":"0%",
+    "Date":"1 Jan 2021",
+    "Source (official or from the United Nations)":"2021 Census[247]",
+    "Notes":null
+  },
+  {
+    "Location":"Niue (New Zealand)",
+    "Population":1681.0,
+    "% of world":"0%",
+    "Date":"11 Nov 2022",
+    "Source (official or from the United Nations)":"2022 Census[248]",
+    "Notes":null
+  },
+  {
+    "Location":"Vatican City",
+    "Population":882.0,
+    "% of world":"0%",
+    "Date":"31 Dec 2024",
+    "Source (official or from the United Nations)":"Official figure[249]",
+    "Notes":"[ah]"
+  },
+  {
+    "Location":"Cocos (Keeling) Islands (Australia)",
+    "Population":593.0,
+    "% of world":"0%",
+    "Date":"30 Jun 2020",
+    "Source (official or from the United Nations)":"2021 Census[250]",
+    "Notes":null
+  },
+  {
+    "Location":"Pitcairn Islands (UK)",
+    "Population":35.0,
+    "% of world":"0%",
+    "Date":"2023",
+    "Source (official or from the United Nations)":"Official estimate[251]",
+    "Notes":null
+  }
+]
